@@ -3,7 +3,12 @@ seconds += time_increment;
 minutes = seconds/60;
 hours = minutes/60;
 
-darkness = hours/24-.3;
+if (hours <= 12) {
+	darkness = (hours/24);
+}
+else {
+	darkness = ((24-hours)/24);
+}
 
 //Cycle Check
 if(hours >= 24) {

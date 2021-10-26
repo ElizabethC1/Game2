@@ -4,7 +4,7 @@ hours = 0;
 
 day =1;
 
-time_increment = 200; //seconds per step
+time_increment = 50; //seconds per step
 
 darkness = 0; //self-explanatory
 light_color = c_black;
