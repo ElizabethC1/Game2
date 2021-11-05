@@ -4,6 +4,7 @@
     {"id":{"name":"objItemStone","path":"objects/objItemStone/objItemStone.yy",},"order":4,},
     {"id":{"name":"objRock","path":"objects/objRock/objRock.yy",},"order":1,},
     {"id":{"name":"MACROS","path":"scripts/MACROS/MACROS.yy",},"order":0,},
+    {"id":{"name":"objCamera","path":"objects/objCamera/objCamera.yy",},"order":6,},
     {"id":{"name":"sprWood","path":"sprites/sprWood/sprWood.yy",},"order":4,},
     {"id":{"name":"objTree","path":"objects/objTree/objTree.yy",},"order":2,},
     {"id":{"name":"Day","path":"sprites/Day/Day.yy",},"order":5,},
@@ -70,7 +71,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.6.595",
+    "IDEVersion": "2.3.5.589",
   },
   "resourceVersion": "1.4",
   "name": "Game2",
