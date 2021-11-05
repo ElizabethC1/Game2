@@ -14,3 +14,5 @@ spriteIdle = sprPlayerIdle;
 spriteInteract = sprPlayerInteract;
 spriteRun = sprPlayerRun;
 localFrame = 0;
+inventory_wood = 0;
+inventory_stone = 0;
