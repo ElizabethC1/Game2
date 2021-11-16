@@ -4,6 +4,7 @@
     {"id":{"name":"objItemStone","path":"objects/objItemStone/objItemStone.yy",},"order":4,},
     {"id":{"name":"objRock","path":"objects/objRock/objRock.yy",},"order":1,},
     {"id":{"name":"MACROS","path":"scripts/MACROS/MACROS.yy",},"order":0,},
+    {"id":{"name":"sprMap","path":"sprites/sprMap/sprMap.yy",},"order":7,},
     {"id":{"name":"objCamera","path":"objects/objCamera/objCamera.yy",},"order":6,},
     {"id":{"name":"sprWood","path":"sprites/sprWood/sprWood.yy",},"order":4,},
     {"id":{"name":"objTree","path":"objects/objTree/objTree.yy",},"order":2,},
