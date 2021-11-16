@@ -4,10 +4,10 @@ minutes = seconds/60;
 hours = minutes/60;
 
 if (hours <= 12) {
-	darkness = (hours/24);
+	darkness = (hours/24) + 0.1;
 }
 else {
-	darkness = ((24-hours)/24);
+	darkness = ((24-hours)/12) - 0.4;
 }
 
 //Cycle Check
