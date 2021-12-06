@@ -71,5 +71,15 @@
 			instance_destroy();
 		}
 	}
-//use shit
-//menu shit
+
+// AOE attack PLEASE FIX
+nearestEnemy = instance_nearest(x,y,objEnemy1);
+if (keyboard_check_pressed(ord("q"))) && (coolDown <= 0){
+	with (nearestEnemy) {
+			instance_destroy ();
+	}
+	//coolDown+= 20;
+}
+else {
+	//coolDown-= 1;
+}

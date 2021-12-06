@@ -8,6 +8,7 @@ hsp = 0;
 wlkspd = 2.0;
 sproll = 3.5;
 distRoll = 52;
+coolDown = 0;
 
 spriteRole = sprPlayerRoll;
 spriteIdle = sprPlayerIdle;
